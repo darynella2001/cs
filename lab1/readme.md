@@ -19,3 +19,5 @@ In this laboratory work I have used Python as a programming language and its sta
 
 ### Setup
 Run the application through lab1.py file.
+
+https://github.com/darynella2001/cs/blob/master/lab1/video_lab_1.mp4
