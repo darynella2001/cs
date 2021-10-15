@@ -123,9 +123,9 @@ def check():
     def exit():
         frame2.destroy()
 
-    exit_btn = Button(frame2, text='Back', command=exit, bg="#0023FF", fg="white", font=app_font, padx='10px',
+    exit_btn = Button(frame2, text='Back', command=exit, bg="#519487", fg="white", font=app_font, padx='10px',
                       pady='3px')
-    exit_btn.place(relx=0.93, rely=0.92)
+    exit_btn.place(relx=0.93, rely=0.93)
 
 def input_find(term):
     find()
