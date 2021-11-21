@@ -1,5 +1,5 @@
 # FAF.CS16.1 Fall 2021
-## Lab 5: Enforcing a Policy (cont'd)
+## Lab 6: SSO Security
 ### Table of contents
 * [Introduction](#introduction)
 * [Laboratory Tasks](#lab-tasks)
@@ -11,17 +11,22 @@ In this course we will do a sequence of labs, the end goal of which is to develo
 
 ### Laboratory Tasks
 Our desktop application must enable the user to:
-* Select the settings to be enforced (a subset of Failed, or all of them);
-* Enforce the policy on at least 20 settings (edit the selected settings in your system);
-* Rollback to the system’s initial settings.
+* Offer user authentication via SSO using at least 3 identity providers (e.g. Facebook,
+Gmail, Twitter etc.);
+* Configure SSO integration to get as much as possible data about the end-user;
+* Configure SSO integration to get as much as possible data about the end-user;
 
 ### Video
 
 
 
+https://user-images.githubusercontent.com/56044286/142773803-7a57176d-100f-4723-b489-96a6f394a88c.mp4
+
+
+
 
 ### Technologies
-In this laboratory work I have used Python as a programming language and its standard GUI (Graphical User Interface) package *Tkinter*. As integrated development environment (IDE) I used Visual Studio Code.
+In this laboratory work I have used HTML, CSS and Javascript.
 
 ### Setup
-Run the application through lab4.py file.
+Launch index.html
