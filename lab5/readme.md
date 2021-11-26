@@ -19,6 +19,10 @@ Our desktop application must enable the user to:
 
 
 
+https://user-images.githubusercontent.com/56044286/143618003-23d99a18-7c16-432b-a740-14c8a5a772c3.mp4
+
+
+
 
 ### Technologies
 In this laboratory work I have used Python as a programming language and its standard GUI (Graphical User Interface) package *Tkinter*. As integrated development environment (IDE) I used Visual Studio Code.
